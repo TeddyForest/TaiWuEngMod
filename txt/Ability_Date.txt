@@ -1,0 +1,31 @@
+﻿#,0,1,2,3,99
+0,Grind your sword,0,1,0,Grind your sword - You alway fight aginst beasts in valley，increase your Strength to at least 90。
+1,React from danger,0,1,0,React from danger - You alway aware dangers and fast react in valley，increase your Agility to at least 90。
+2,Fragrance from cold,0,1,1,Fragrance from cold just like a plum flower - You have to endure the lonely life in valley，increase your Will to at least 90。
+3,Pure and natural,0,1,1,Pure and natural - You grow naturally，pure and health，increase your Constitution to at least 90。
+4,Adaptability to change,0,1,2,Adaptability to change - You always trained at diverse place in valley，increase your Vitality to at least 90。
+5,Think in peace,0,1,2,Think in peace and gain understanding - You have more time to think due to lonely life，increase your Comprehension to at least 90。
+6,The secret friend,0,2,3,The secret friend - You have a inseparable secret friend but no one knows。
+7,Narcissus in dream,0,2,3,Narcissus in dream - You have special fascination，everyone seems saw you before in their dreams。
+8,White forehead snake,0,3,5,White forehead snake - You ever played with a white forehead snake whole day，you gain 1 extra Pure Spirit point。
+9,Eaten Ganoderma and Jade,0,3,5,Eaten Ganoderma and Jade - You ever ate Ganoderma and Jade，Your character have no negative traits。
+100,Collections,1,1,0,Collections - You packed many collections over the years，gain resource boxes of all resources。
+101,Ten pieces of gold,1,1,0,Ten pieces of gold - Your initial money becomes 10K。
+102,Brocade of swaddle,1,1,1,Brocade of swaddle，Your childhood swaddle was a brocade clothes staining on blood，maybe that is from your parents，you start with a Rank 5 clothes。
+103,Wine,1,1,1,Wine，the longer the better - You start with some wine in Rank 4 to 6。
+104,Horse riding,1,1,2,Horse riding - You have a steed that you raised from a young age，You start with a Rank 5 horse。
+105,Mud sealed ancient pottery,1,1,2,Mud sealed ancient pottery - You start with a Rank 4 Cricket jar。
+106,Weird stuff from strange cave,1,2,3,Weird stuff from strange cave - You start with some Rank 4 poison。
+107,Drug in ancient furnace,1,2,3,Drug in ancient furnace - You start with some Rank 4 drug。
+108,Family treasure,1,3,5,Family treasure，meaningful - You have a family treasure from your parents，You gain a random God Rank 1 treasure。
+109,Prosperity gospel,1,3,5,Prosperity gospel，Increase building upper limit 10 of Tai-Wu village。
+200,Music Chess Literature Paint,2,1,0,Music，Chess，Literature and Paint - Increase your talent of Music，Chess，Literature and Paint。
+201,Follow the call from nature,2,1,0,Follow the call from nature - Increase your talent of Buddhism，Taoism，Appreciation and Cooking。
+202,Astrology and Witchery,2,1,1,Astrology and Witchery - Increase your talent of Medicine，Toxicology，Math and Miscellaneous Knowledge。
+203,Creativity,2,1,1,Creativity，Increase your talent of Smithing，Woodworking，Crafting and Weaving。
+204,Low-key and self-reflection,2,1,2,Polishing jade stone - Increase your Success Rate of breakthrough the barrier of Artistry，+20 points of Patient。
+205,Convergence of sharp blade,2,1,2,Convergence of sharp blade - Increase your Success Rate of breakthrough the barrier of Skills，+20 points of Patient。
+206,Treasure from nature,2,2,3,Treasure from nature - You start with some Rank 3 raw materials。
+207,Prepare your tools,2,2,3,Prepare your tools - You start with some random Rank 4 tools。
+208,Superhuman gifts,2,3,5,Superhuman gifts - Increase your talent of Force，Stunt，and Footwork。
+209,Ancient Grave,2,3,5,Ancient Grave - You ever transcribe a secret book from an ancient grave，you gain a Super Rank 3 skill book。

@@ -1,0 +1,26 @@
+#,0,1,2,3,4,5,71,99
+0,Defeat,-50,0,0,0,0,0,Defeat。
+1,Draw,-50,0,0,0,0,0,Draw。
+2,Victory,50,0,-10,10,0,0,Victory。
+3,Retreat,-50,-1,0,0,0,0,Retreat。
+4,Practical experience,50,0,0,10,0,0,Practical experience。
+103,Bully·Amount,-20,0,0,-5,0,0,Defeat enemy who have lesser comrade。
+104,Tough·Amount,20,0,0,5,0,0,Defeat enemy who have more comrade。
+201,Bully·Youth,-50,-1,0,-20,0,0,Defeat minor enemy。
+202,Bully·Preg,-50,-1,0,-20,0,0,Defeat pregnant enemy。
+203,Newborn,50,0,30,10,1,0,Defeat enemy elder than you while you are minor。
+204,Lion roar,20,0,20,5,1,0,Defeat enemy while you are pregnant。
+301,Bully·Equip,-20,0,0,-20,0,0,Defeat enemy who have weaker equipments。
+302,Tough·Equip,20,0,20,15,1,0,Defeat enemy who have stronger equipments。
+303,Bully·Qi,-20,0,0,-20,0,0,Defeat enemy who have weaker Pure-Qi。
+304,Tough·Qi,20,0,20,15,1,0,Defeat enemy who have stronger Pure-Qi。
+305,Bully·MA,-10,0,0,-20,0,0,Defeat enemy who use weaker martial arts。
+306,Tough·MA,10,0,10,15,1,0,Defeat enemy who use stronger martial arts。
+307,Bully·Pure,-30,0,0,-20,0,0,Defeat enemy who have weaker Pure Spirit。
+308,Tough·Pure,30,0,30,15,1,0,Defeat enemy who have stronger Pure Spirit。
+501,Heal,0,0,0,0,0,0,。
+502,Detoxification,0,0,0,0,0,0,。
+601,Exorcism,0,0,-50,0,0,0,Restore one's mind from XianShu's demon。
+602,Heart of sword,0,0,-500,0,0,0,Defeat XianShu's Incarnation！
+603,Area grace,0,0,0,0,0,0,Because you defeat gangsters，you gain Area grace！
+604,Area grace,0,0,0,0,0,0,Because of the Exorcism，you gain Area grace！

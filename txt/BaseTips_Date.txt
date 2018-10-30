@@ -1,0 +1,9 @@
+#,0,99
+0,9 colors of Rank：,Lowest Rank 9C_20002GreyC_D、\nRank 8C_20003WhiteC_D、Rank 7C_20004GreenC_D、Rank 6C_20005BlueC_D、Rank 5C_20006AzureC_D、Rank 4C_20007PurpleC_D、Rank 3C_20008GoldC_D、Rank 2C_20009OrangeC_D、\nHighest Rank 1C_20010RedC_D。
+1,5 manners of Cricket：,鸣不失时，信也；\n遇敌必斗，勇也；\n伤重不降，忠也；\n败则不鸣，知耻辱也；\n寒则归宁，识时务也。
+2,Pure Spirit：,所谓精纯，乃世代累积之功也——\n精纯境界无法一蹴而就，非代代相传、日积月累不能达成！\n唯有通过世世代代对武学的钻研，方能最终臻至武学之极意、精纯之最高化境。
+3,Cricket catching：,促织乃机敏之物，极难捕获。\n唯有在其鸣叫至最忘情，最激烈之时再出手捕捉，方可十拿九稳。
+4,Traveler of dual world：,frequent（Save/Load）may cause you exhausted……
+5,奇遇岔路：,当你在奇遇中遭遇岔路，你会朝着你队伍赋性中最高的那一项所对应的方向前进！
+6,出战队伍：,你最多可以将四位同道带入出战队伍！\n出战队伍中的同道，不仅会协助你进行战斗，还能够增加你在奇遇中的技艺水平、影响你的队伍赋性值。
+7,Comrade invite：,你只能邀请太吾村民，或与你关系最为亲密（血亲、配偶、结义）之人成为同道。\n但是，人各有志，即使是你的父母、子女，亦有可能拒绝你的请求……

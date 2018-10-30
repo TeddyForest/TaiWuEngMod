@@ -1,0 +1,13 @@
+#,0,1,2,3,99
+0,Normal,0,600,50,Start battle normally。
+1,Face to face,25,300,50,The battle is to the strong。\nStart battle on distance 3.0。
+2,Excitation,25,600,50,One for all，all for one。\nComrade will help you more positively。
+3,Mirror of heart,50,600,50,Opportunity favors the prepared mind。\nStart battle with doubled C_20008「Shield」C_D。
+4,Trap,75,600,50,\nInterrupt enemy'sC_20008「Retreat」C_D。
+5,Concentrate,100,600,50,\nIncreaseC_20008「Focus」C_Drising speed。
+101,Sneak attack,25,900,50,\nStart battle on distance 9.0。
+102,Alienate,25,600,50,\nEnemy's comrade will help less。
+103,Hidden dagger,50,600,50,There are daggers in man's smile。\nHalved enemy'sC_20008「Shield」C_D。
+104,Ambush,75,600,50,Surrounded on all Sides。\nInterrupt enemy'sC_20008「Retreat」C_D。
+105,Cunning,100,600,50,Kick someone when he is down。\nDecreaseC_20008「Focus」C_Dof enemy。
+2001,Auto combat,0,0,0,Auto combat。

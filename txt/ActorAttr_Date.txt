@@ -1,0 +1,70 @@
+﻿#,0,1,98,99
+0,STR,1,12,C_20002Strength represent muscle power and explosiveness…C_D\n\n·Strength declines as character gets older past their peak\n·Improve efficiency with weapons that require Strength\n·Improve efficiency with martial arts that require Strength\n·The points of Strength that over C_2000350C_D will add to「Forceful Attack」as accuracy bonus\n·「Forceful Attack」can be countered by enemy's「Absorb」\n·Increase character weight limit to equip heavier equipment before their speed get dramatically lowered by being encumbered in battle
+1,CON,1,16,C_20002Constitution represent external physical toughness…C_D\n\n·Constitution declines as character gets older past their peak\n·Improve efficiency with martial arts that require Constitution\n·Improve「External Injuries」upper limit
+2,AGI,1,17,C_20002Agility represent dexterity、reflex and body coordination…C_D\n\n·Agility declines as character gets older past their peak\n·Improve efficiency with weapons that require Agility\n·Improve efficiency with martial arts that require Agility\n·The points of Agility that over C_2000350C_D will add to「Swift Attack」as accuracy bonus\n·「Swift Attack」can be countered by enemy's「Evasion」
+3,VIT,1,18,C_20002Vitality represent your body structure, quality of bone and blood…C_D\n\n·Vitality declines during middle age, Increases during young and older age\n·Improve efficiency with martial arts that require Vitality\n·Improve「Internal Injuries」upper limit
+4,COM,1,6,C_20002Comprehension represent ability to learn and understand…C_D\n\n·Comprehension declines during middle age, Increases during young and older age\n·Improve efficiency with martial arts that require Comprehension\n·Increase maximum Comprehension point while reading books\n·Increase your Success Rate of breakthrough the barrier of Artistry and Skill
+5,WIL,1,20,C_20002Will represent ability to concentrate and stability of mind…C_D\n\n·Will increases as character gets older\n·Improve efficiency with weapons that require Will\n·Improve efficiency with martial arts that require Will\n·The points of Will that over C_2000350C_D will add to「Finesse Attack」as accuracy bonus\n·「Finesse Attack」can be countered by enemy's「Parry」
+6,PhD,1,21,C_20002Physical Defense represent character's protection from external injuries and physical form of attacks…C_D\n\n·Physical Defense declines as character gets older\n·Reduce「External Injuries」received\n·Directly oppose opponent's ability to「Break Physical Defense」
+7,QiD,1,22,C_20002Qi Defense represent character's protection from internal injuries and Qi attack…C_D\n\n·Qi Defense increases as character gets older\n·Reduce「Internal injuries」received\n·Directly oppose opponent's ability to「Break Qi Defense」
+8,InB,1,19,C_20002Inner Breath represent ability to circulate their internal breathing…C_D\n\n·Inner Breath declines as character gets older past their peak\n·Increases Inner Breath can reduce the「Inner Breath Turbulence」continuously\n·Reduce negative effects received during battle
+9,ABS,1,13,C_20002Absorb represent one's quality to absorb and resolve force…C_D\n\n·Absorb declines as character gets older\n·Ability to negate Forceful Attacks\n·「Forceful Attack」：Punch、Hack、Throw\n·Able to partially reduce damage received from martial arts technique with Forceful Attack nature
+10,PAR,1,14,C_20002Parry represent ability to parry an attack…C_D\n\n·Parry increase as character gets older\n·Ability to negate Finesse Attacks\n·「Finesse Attack」：Hold、Slash、Drive\n·Able to partially reduce damage received from martial arts technique with Finesse Attack nature
+11,EVA,1,15,C_20002Evasion represent ability to evade an attack…C_D\n\n·Evasion declines as character gets older\n·Ability to negate Swift Attacks\n·「Swift Attack」：Point、Stab、Shot\n·Able to partially reduce damage received from martial arts technique with Swift Attack nature
+12,TIT,0,0,C_20002Title of your achievement…C_D\n\n·Coming soon
+13,NAME,0,4,C_20002Name…C_D\n\n·It may not be the true name of character in some situations
+14,GEN,0,5,C_20002Gender…C_D\n\n·It may not be the true gender of character in some situations
+15,FAS,0,1,C_20002Fascination…C_D\n\n·Youth people don't have fascination\n·Naked will halved character's fascination\n·The evaluation of appearance from low to high：\n-Inhuman\n-Hateful\n-Below Average\n-Common\n-Outstanding\n-Emerald（M）/Jade（F）\n-Dragon（M）/Phoenix（F）\n-Unrivaled（M）/Picturesque（F）\n-Immortal
+16,DEP,0,8,C_20002Dependency of town or sect…C_D\n\n
+17,POS,0,9,C_20002Position of character's dependency…C_D\n\n·The higher position do，the harder make friendship\n·Position grade from low to hight：\nC_20002GreyC_D、C_20003WhiteC_D、C_20004GreenC_D、C_20005BlueC_D、C_20006AzureC_D、C_20007PurpleC_D、C_20008YellowC_D、C_20009OrangeC_D、C_20010RedC_D
+18,STA,0,11,C_20002Standpoint represent one's living philosophy and attitude…C_D\n\n·The more different standpoint do，the harder get along\n·Different standpoint can choose different actions\n·Different standpoint cause different solution on events
+19,REP,0,10,C_20002Reputation…C_D\n\n·Your reputation will be influenced by your relationship
+20,MOOD,0,1,C_20002Mood…C_D\n\n·The mood of the character will affect the efficiency of work\n·Evil thought grows When character's mood gets down\n·Mood level from low to high：\n-Hopeless\n-Suffer\n-Frustrated\n-Normal\n-Glad\n-Joyful\n-Ecstatic
+21,REL,0,2,C_20002Relationship…C_D\n\n·Character's relationship will affect the mood greatly
+22,REI,0,3,C_20002Reincarnation times…C_D\n\n·When character died will be reincarnation somewhere in the world \n·Character will gain attributes bonus of preexistence\n·Character will gain skill bonus of preexistence
+23,OFF,0,0,C_20002Offensive level on battle…C_D\n\n·Character has higher Offensive level will help you to attack enemy more\n·May give you accuracy bonus while use martial arts
+24,DEF,0,0,C_20002Defensive level on battle…C_D\n\n·Character has higher Defensive level will help you to resist injury more\n·May give you defence bonus while counter martial arts
+25,PLAN,0,0,C_20002Plan level on battle…C_D\n\n·Plan level can use while start a battle
+26,EXI,0,0,C_20002External Injuries…C_D\n\n·Continuous reduce character's health when reach External Injuries upper limit
+27,INI,0,0,C_20002Internal Injuries…C_D\n\n·Continuous reduce character's health when reach Internal Injuries upper limit
+28,HEA,0,0,C_20002Health…C_D\n\n·Health upper limit declines as character gets older
+29,LIKE,0,0,C_20002Give a gift character's like can double the positive feeling gained…C_D\n\n
+31,HATE,0,0,C_20002Item type…C_D\n\n
+33,EXP,0,0,C_20002Experience…C_D\n\n
+37,AGE,0,0,C_20002Age of character…C_D\n\n·Character gets 30 action points per month when he is at age 15 to 39，10AP during age 1 to 6 and age 92 above，20AP in otherwise cases
+501,Music,0,0,
+502,Chess,0,0,
+503,Literature,0,0,
+504,Paint,0,0,
+505,Math,0,0,
+506,Appreciation,0,0,
+507,Smithing,0,0,
+508,Woodworking,0,0,
+509,Medicine,0,0,
+510,Toxicology,0,0,
+511,Weaving,0,0,
+512,Crafting,0,0,
+513,Taoism,0,0,
+514,Buddhism,0,0,
+515,Cooking,0,0,
+516,Miscellaneous Knowledge,0,0,
+601,Force,0,0,
+602,Footwork,0,0,
+603,Stunt,0,0,
+604,Fist,0,0,
+605,Finger,0,0,
+606,Kick,0,0,
+607,Hidden Weapon,0,0,
+608,Sword,0,0,
+609,Blade,0,0,
+610,Long Staff,0,0,
+611,Special,0,0,
+612,Soft Weapon,0,0,
+613,Range Weapon,0,0,
+614,Musical Instrument,0,0,
+701,金刚（Gold）,0,0,
+702,紫霞（Wood）,0,0,
+703,玄阴（Water）,0,0,
+704,纯阳（Fire）,0,0,
+705,归元（Earth）,0,0,
+706,混一（Chaos）,0,0,
